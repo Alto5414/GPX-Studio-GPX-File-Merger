@@ -12,8 +12,9 @@
 
 **Program Goals**: 
 1. Provide few-click solution that automatically performs this process, and merges the ready-to-paste tracks into a single file. Example below.
-2. All contents should be compatible with the <a href="https://www.topografix.com/gpx/1/1/" target="_blank">GPX 1.1 Schema</a> and import and display correctly in the Android GPX apps I use ([DMD2](https://www.drivemodedashboard.com/), GPX Viewer Pro).
+2. All contents should be compatible with the <a href="https://www.topografix.com/gpx/1/1/" target="_blank">GPX 1.1 Schema</a> and import and display correctly in the Android GPX apps I use (<a href="https://www.drivemodedashboard.com/" target="_blank">DMD2</a>, <a href="https://vecturagames.com/gpxviewerproios/" target="_blank">GPX Viewer Pro</a>).
 
+Example of the transformation:
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/90135828-6097-4b96-a570-866d84cadaee" />
 
 **Included in the repo are two versions**:
