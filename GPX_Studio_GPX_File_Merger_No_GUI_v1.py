@@ -119,6 +119,6 @@ def merge_gpx_from_directory(input_dir, output_filename):
     print(f"Merged file written to: {output_txt_path}")
 
 # --- Usage ---
-input_directory = r"C:\Users\jacka\Downloads\GPX_Downloads"
+input_directory = r"C:\Users\[insertusername]\Downloads\GPX_Downloads" # local directory. change as needed
 output_file = "merged_output.gpx"
 merge_gpx_from_directory(input_directory, output_file)
