@@ -9,7 +9,11 @@
 
 **Problem Statement**: The workflow to merge many exported GPX files from GPX Studio (specifically) into the master GPX file is time-consuming, requiring many steps and repetitiveness (open file->re-structure lines->add line coloring->copy->paste->delete file -> repeat). It can take hours to create, export then merge-in 10s of gpx files.
 
-**Program Goal**: Provide few-click solution that automatically performs this process, and merges the ready-to-paste tracks into a single file.
+**Program Goals**: 
+1. Provide few-click solution that automatically performs this process, and merges the ready-to-paste tracks into a single file. Example below.
+2. All contents should be compatible with the Android GPX apps I use (DMD2, GPX Viewer Pro).
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/90135828-6097-4b96-a570-866d84cadaee" />
 
 **Included in the repo are two versions**:
 1. With GUI, providing GPX file selection
