@@ -1,3 +1,7 @@
+# Hosted on GitHub https://github.com/Alto5414/GPX-Studio-GPX-File-Merger
+# Author: Matthew Dawson-Paver
+# Original Date: Aug 2025
+
 import os
 
 # ----- Extension blocks -----
